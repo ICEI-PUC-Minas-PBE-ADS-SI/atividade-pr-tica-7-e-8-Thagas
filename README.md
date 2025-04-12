@@ -12,10 +12,10 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Thulio Hiroshi Fernandes Funayama
+- Matricula:891452
+- Proposta de projeto escolhida:site de receitas
+- Breve descrição sobre seu projeto:é um site de receitas.
 
 ## Print da versão responsiva com CSS puro
 
