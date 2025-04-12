@@ -19,7 +19,7 @@ Leia o enunciado completo no Canvas.
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >>![alt text](<public/img/Captura de tela 2025-04-12 200704.png>)
 
 ## Print da versão responsiva com Bootstrap
 
