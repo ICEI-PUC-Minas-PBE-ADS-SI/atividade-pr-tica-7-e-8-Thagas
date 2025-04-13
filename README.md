@@ -23,4 +23,4 @@ Leia o enunciado completo no Canvas.
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >>![alt text](<public/img/Captura de tela 2025-04-12 215305.png>)
